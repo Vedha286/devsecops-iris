@@ -1,4 +1,5 @@
 # Dev-Sec-Ops Demo/Assignment
+[![codecov](https://codecov.io/gh/Vedha286/mlops-iris/branch/master/graph/badge.svg?token=REKR951Y9K)](https://codecov.io/gh/Vedha286/mlops-iris)
 
 [![codecov](https://codecov.io/gh/Vedha286/devsecops-iris/branch/master/graph/badge.svg?token=34NTSARCIX)](https://codecov.io/gh/Vedha286/devsecops-iris)
 
