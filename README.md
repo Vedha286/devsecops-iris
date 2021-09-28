@@ -20,10 +20,8 @@ This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` a
 
 
 ## Assignment Tasks
-- Fix badge to show coverage for your repo:- **My badge is on top**
-- Add OS to matrix strategy along with PYTHON to test with different operating systems:- **I used `ubuntu-latest`, `windows-latest`, `macOS-latest` os and `3.7`, `3.8`, `3.9` python versions**
-- Improve code coverage and bring it above 95%:- **My coverage was 99%**
-- Make a visualisation for sarif report using any tool. upload screenshot, image, html or pdf. Add it to the reports/ folder:- **Screenshots are in reports folder**
+1. My badge is on top of the readme
+2. I used `ubuntu-latest`, `windows-latest`, `macOS-latest` os and `3.7`, `3.8`, `3.9` python versions
+3. My coverage is 99%
+4. Screenshots sarif report visualisation screenshot and the code coverage screenshots are in reports folder
 
-## Submission
-- Link to github repository as a comment on the submission (olympus portal). [uploading .txt is optional]
