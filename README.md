@@ -1,7 +1,7 @@
 # Dev-Sec-Ops Demo/Assignment
-[![codecov](https://codecov.io/gh/Vedha286/mlops-iris/branch/master/graph/badge.svg?token=REKR951Y9K)](https://codecov.io/gh/Vedha286/mlops-iris)
 
 [![codecov](https://codecov.io/gh/Vedha286/devsecops-iris/branch/master/graph/badge.svg?token=34NTSARCIX)](https://codecov.io/gh/Vedha286/devsecops-iris)
+
 
 This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` application which predicts the flower class using the IRIS dataset (https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
@@ -20,10 +20,8 @@ This repository contains code which demonstrates Dev-Sec-Ops using a `FastAPI` a
 
 
 ## Assignment Tasks
-- Fix badge to show coverage for your repo. (hint: find correct link for badge from codecov.io)
-- Add OS to matrix strategy along with PYTHON to test with different operating systems like `ubuntu-latest`, `windows-latest`  etc.
-- Improve code coverage and bring it above 95%
-- Make a visualisation for sarif report using any tool. upload screenshot, image, html or pdf. Add it to the reports/ folder. 
+1. My badge is on top of the readme
+2. I used `ubuntu-latest`, `windows-latest`, `macOS-latest` os and `3.7`, `3.8`, `3.9` python versions
+3. My coverage is 99%
+4. Screenshots sarif report visualisation screenshot and the code coverage screenshots are in reports folder
 
-## Submission
-- Link to github repository as a comment on the submission (olympus portal). [uploading .txt is optional]
